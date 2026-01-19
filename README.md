@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/moharam-infosec">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Moharam+Esssam;Cyber+Security+%7C+SOC+DFIR+;Welcome+to+my+GitHub+Profile+%F0%9F%94%A5" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Moharam+Essam;Cyber+Security+%7C+SOC+DFIR+;Welcome+to+my+GitHub+Profile+%F0%9F%94%A5;Take+a+look+at+my+projects+%F0%9F%98%89" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -11,8 +11,8 @@
 <h2>👤 About Me</h2>
 
 <p>
-I am a <strong>Cyber Security student</strong> focused on <strong>Red Team operations</strong>,
-web exploitation, and offensive security fundamentals.
+I am a <strong>Cyber Security student</strong> focused on <strong>SOC & DFIR</strong>,
+system and network and web and apps defense , and offensive security fundamentals.
 I enjoy understanding how systems break in order to secure them properly.
 </p>
 
