@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/bogeyman-hacker">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Moharam+Esssam;Cyber+Security+%7C+Red+Team;Welcome+to+my+GitHub+Profile+%F0%9F%94%A5" alt="Typing SVG"/>
+  <a href="https://github.com/moharam-infosec">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Moharam+Esssam;Cyber+Security+%7C+SOC+DFIR+;Welcome+to+my+GitHub+Profile+%F0%9F%94%A5" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -11,39 +11,24 @@
 <h2>👤 About Me</h2>
 
 <p>
-<strong>EN 🇬🇧</strong><br>
 I am a <strong>Cyber Security student</strong> focused on <strong>Red Team operations</strong>,
 web exploitation, and offensive security fundamentals.
 I enjoy understanding how systems break in order to secure them properly.
 </p>
 
-<p>
-<strong>AR 🇪🇬</strong><br>
-طالب أمن سيبراني مهتم بالـ <strong>Red Team</strong> واختبار الاختراق،
-بحب أتعلم من خلال التجربة العملية و CTFs وبناء أدوات بسيطة.
-</p>
 
-<p>
-<strong>ES 🇪🇸</strong><br>
-Estudiante de ciberseguridad enfocado en <strong>Red Team</strong>,
-explotación web y fundamentos de seguridad ofensiva.
-</p>
-
-    </td>
-
-    <td valign="top" width="35%" style="border:none;">
 
 <h2>🛠️ Skills</h2>
 
 <ul>
-  <li>Red Team Fundamentals</li>
-  <li>Web Security</li>
+  <li>DFIR Tools</li>
+  <li>SIEM Tools</li>
   <li>Linux & Networking</li>
   <li>CTFs</li>
   <li>Problem Solving</li>
 </ul>
 
-    </td>
+  
   </tr>
 </table>
 
