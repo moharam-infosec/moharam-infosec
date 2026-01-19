@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/moharam-infosec">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Moharam+Essam;Cyber+Security+%7C+SOC+DFIR+;Welcome+to+my+GitHub+Profile+%F0%9F%94%A5;Take+a+look+at+my+projects+%F0%9F%98%89" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Moharam+Essam;Cyber+Security+%7C+SOC+&+DFIR+;Welcome+to+my+GitHub+Profile+%F0%9F%94%A5;Take+a+look+at+my+projects+%F0%9F%98%89" alt="Typing SVG"/>
   </a>
 </p>
 
