@@ -32,14 +32,6 @@ I enjoy understanding how systems break in order to secure them properly.
   </tr>
 </table>
 
-<blockquote>
-  <h3 align="center">
-    <em>
-      I lurk in the shadows to understand the shadows.
-    </em>
-  </h3>
-</blockquote>
-
 <h2 align="center">🧰 Languages & Tools</h2>
 
 <p align="center">
